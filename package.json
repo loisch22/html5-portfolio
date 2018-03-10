@@ -1,0 +1,16 @@
+{
+  "name": "html5up-spectral",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Lois Choi <loisch22@gmail.com>",
+  "license": "MIT",
+  "description": "Temporary Portfolio for Lois Choi",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "live-server public/"
+  },
+  "dependencies": {
+    "babel-cli": "6.24.1",
+    "live-server": "^1.2.0"
+  }
+}
