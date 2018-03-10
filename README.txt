@@ -1,3 +1,10 @@
+Temporary Portfolio for Lois Choi
+
+Description
+Using the Spectral template from html5up.net
+A site to view latest projects and to connect/contact
+
+-----------
 Spectral by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
